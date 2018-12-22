@@ -1,0 +1,6 @@
+.formvalidation{width: 600px; margin:0 auto; height: 400px;background: #ddd;}
+.header{background: green;}
+.header h2{color: #fff;  text-align: center;font-size: 18px; font-family: verdana;padding: 10px;}
+.main{background: #ddd; padding: 10px; height: 300px;}
+.footer {background: #000;}
+.footer h2{color: #fff;   text-align: center;font-size: 18px; font-family: verdana;padding: 10px;}
